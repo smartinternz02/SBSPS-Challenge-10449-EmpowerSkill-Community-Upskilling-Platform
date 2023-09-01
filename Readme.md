@@ -1,6 +1,6 @@
 # Features
 
-Link: https://linkedin-clone-a077e.web.app
+Link: 
 
 1. Authentication
 2. Start a Post
@@ -13,9 +13,8 @@ Link: https://linkedin-clone-a077e.web.app
 9. Add a Profile Picture
 10. Add Post Images
 11. Search For Other Users
+12. Learn through courses.
+13. Scroll job posts.
+14. Documentations of frameworks.
 
-If you want to learn how to build this, follow my tutorial here:
 
-Linkedin Clone - React and Firebase Full Tutorial.
-
-Check the playlist for the videos: https://lnkd.in/d6JvCm-t
