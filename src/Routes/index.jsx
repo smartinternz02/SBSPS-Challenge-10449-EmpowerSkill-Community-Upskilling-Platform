@@ -8,7 +8,7 @@ import FrameWorkLayout from "../layouts/FrameWorkLayout.jsx";
 import Java from "../Frameworks/java/Java";
 import NodeJS from "../Frameworks/nodejs/NodeJs";
 import ExpressJs from "../Frameworks/expressjs/ExpressJs";
-import SpringBoot from "../Frameworks/springBoot/SpringBoot";
+import SpringBootDoc from "../Frameworks/springboot/SpringBootDocumentation";
 import ReactNative from "../Frameworks/React Native/ReactNative";
 import Django from "../Frameworks/Django/Django";
 import Flutter from "../Frameworks/Flutter/Flutter";
@@ -65,7 +65,7 @@ export const router = createBrowserRouter([
 },
 {
     path: "/frameworks/springboot",
-    element: <SpringBoot/>
+    element: <SpringBootDoc/>
 },
 {
     path: "/frameworks/reactnative",
