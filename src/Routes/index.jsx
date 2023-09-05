@@ -8,7 +8,7 @@ import FrameWorkLayout from "../layouts/FrameWorkLayout.jsx";
 import Java from "../Frameworks/java/Java";
 import NodeJS from "../Frameworks/nodejs/NodeJs";
 import ExpressJs from "../Frameworks/expressjs/ExpressJs";
-import SpringBootDoc from "../Frameworks/springboot/SpringBootDocumentation";
+import SpringBootDoc from "../Frameworks/springboot/SpringBootDocumentation.jsx";
 import ReactNative from "../Frameworks/React Native/ReactNative";
 import Django from "../Frameworks/Django/Django";
 import Flutter from "../Frameworks/Flutter/Flutter";
